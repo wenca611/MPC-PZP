@@ -26,3 +26,7 @@ Create 4 versions of the algorithm:
     * Filtering according to stop words will be performed on GPU.
 4. Apache spark version
     * Use all available CPU cores.
+  
+![](images/graf1.png)
+
+![](images/graf2.png)

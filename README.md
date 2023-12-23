@@ -5,8 +5,8 @@ Assigment:
 
 Process enclosed text files.
 Tasks:
-● Load text file data.txt,
-● load text file stop_words.txt
+* Load text file data.txt,
+* load text file stop_words.txt
 ● process data.txt word by word,
 ● filter words with length greater than 8 and lower than 4,
 ● filter words according to stop_words.txt file,

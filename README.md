@@ -1,2 +1,2 @@
 # MPC-PZP
-parallel data processing project
+parallel data processing project in Python

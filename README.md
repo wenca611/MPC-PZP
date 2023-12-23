@@ -26,3 +26,50 @@ dictionary that will contain words and choosen ids. Then convert text files to i
 ● Filtering according to stop words will be performed on GPU.
 4. Apache spark version
 ● Use all available CPU cores.
+
+
+Assignment:
+Process enclosed text files.
+
+Tasks:
+Load Text Files:
+
+Load text file data.txt.
+Load text file stop_words.txt.
+Text Processing:
+
+Process data.txt word by word.
+Filter words with a length greater than 8 and lower than 4.
+Filter words according to stop_words.txt file.
+Compute Statistics:
+
+Compute statistics:
+The most frequent word and its occurrences.
+The less frequent word and its occurrences.
+The total number of words after filtrations.
+Algorithm Efficiency:
+
+The proposed algorithm should be effective.
+Time Processing:
+
+Results of time processing of each algorithm (CPU, GPU, ....) should be visualized in a cake chart using the Matplotlib library.
+Output:
+
+All demanding outputs should be printed to the console.
+Create 4 Versions of the Algorithm:
+CPU – One Threaded Algorithm
+
+CPU – Multithreaded Algorithm:
+
+Parallelize data processing in data.txt.
+Utilize all available CPU cores.
+GPU Version:
+
+As the GPU may not easily work with string data type, the GPU algorithm will differ. Words from text files need to be mapped to numerical values.
+Create a dictionary containing words and chosen IDs.
+Convert text files to integer vectors that are suitable for GPU processing.
+Filtering according to word length will be performed on the CPU before GPU processing.
+Filtering according to stop words will be performed on the GPU.
+Apache Spark Version:
+
+Utilize all available CPU cores.

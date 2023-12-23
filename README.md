@@ -4,6 +4,7 @@ Parallel data processing project in Python
 Assigment:
 
 Process enclosed text files.
+
 Tasks:
 * Load text file data.txt,
 * load text file stop_words.txt

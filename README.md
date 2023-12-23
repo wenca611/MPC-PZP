@@ -1,5 +1,5 @@
 # MPC-PZP
-parallel data processing project in Python
+Parallel data processing project in Python
 
 Assigment:
 

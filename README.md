@@ -28,6 +28,6 @@ Create 4 versions of the algorithm:
     * Use all available CPU cores.
 
 Time distribution of individual algorithms:
-![](images/graf1.png)
+![](images/graph1.png)
 
-![](images/graf2.png)
+![](images/graph2.png)
